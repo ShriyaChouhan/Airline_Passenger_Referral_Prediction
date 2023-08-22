@@ -1,6 +1,9 @@
 # Airline_Passenger_Referral_Prediction
 Predicting aircraft passenger referal and excavating the main influencing factors can help airlines improve their services and gain.
+
+
 ![WhatsApp Image 2023-08-21 at 14 25 05](https://github.com/ShriyaChouhan/Airline_Passenger_Referral_Prediction/assets/128309746/ed85e541-994c-4414-9fed-e1d216ac6e65)
+
 
 Customer referral is a crucial aspect of business growth and success, and the airline industry is no exception. Satisfied passengers who have had positive experiences with an airline are more likely to refer the airline to their friends, family, and colleagues. Identifying these potential advocates can help airlines improve customer satisfaction and loyalty and attract new customers.
 
